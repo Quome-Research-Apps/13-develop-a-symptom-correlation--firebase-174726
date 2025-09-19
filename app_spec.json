@@ -1,0 +1,1 @@
+{"name": "13-develop-a-symptom-correlation--firebase-174726", "spec": {"port": 8000, "containers": [{"image": "", "name": "13-develop-a-symptom-correlation--firebase-174726", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
